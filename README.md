@@ -30,4 +30,4 @@ Special thanks to the online resources, textbooks, and educators whose knowledge
 
 Happy coding!
 
-[Your Name](#)
+[Lucas Wessel](#)
